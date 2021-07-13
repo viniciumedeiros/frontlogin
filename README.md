@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="" title="Ecoly" src=".github/logo.svg" width="220px" />
+    <img alt="" title="Frontlogin" src=".github/logo.svg" width="220px" />
 </h1>
 
 <h4 align="center">
@@ -84,7 +84,7 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 ## 📃 License
 
-This project is under the MIT license. See the [LICENSE](https://github.com/viniciumedeiros/ecoly/blob/master/LICENSE) for details.
+This project is under the MIT license. See the [LICENSE](https://github.com/viniciumedeiros/frontlogin/blob/master/LICENSE) for details.
 
 🎓 Made with by Vinícius Medeiros 👨🏻‍💻 [Get in touch!](https://www.linkedin.com/in/viniciumedeiros/)
 
@@ -93,3 +93,4 @@ This project is under the MIT license. See the [LICENSE](https://github.com/vini
 [typescript]: https://www.typescriptlang.org/
 [reactjs]: https://reactjs.org
 [yarn]: https://yarnpkg.com/
+[nodejs]: https://nodejs.org/en/
